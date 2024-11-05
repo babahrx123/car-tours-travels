@@ -68,7 +68,13 @@ function Models() {
 
             <div className="models-div__box">
               <div className="models-div__box__img">
-                <img src={CarImg2} alt="car_img" />
+                <Image
+                  src={CarImg2}
+                  alt="car_img"
+                  width={500} // Original width of the image
+                  height={300} // Original height of the image
+                  layout="responsive"
+                />
                 <div className="models-div__box__descr">
                   <div className="models-div__box__descr__name-price">
                     <div className="models-div__box__descr__name-price__name">
@@ -111,7 +117,13 @@ function Models() {
 
             <div className="models-div__box">
               <div className="models-div__box__img">
-                <img src={CarImg3} alt="car_img" />
+                <Image
+                  src={CarImg3}
+                  alt="car_img"
+                  width={500}
+                  height={300}
+                  layout="responsive"
+                />
                 <div className="models-div__box__descr">
                   <div className="models-div__box__descr__name-price">
                     <div className="models-div__box__descr__name-price__name">
@@ -154,7 +166,13 @@ function Models() {
 
             <div className="models-div__box">
               <div className="models-div__box__img">
-                <img src={CarImg4} alt="car_img" />
+                <Image
+                  src={CarImg4}
+                  alt="car_img"
+                  width={500} // Original width of the image
+                  height={300} // Original height of the image
+                  layout="responsive"
+                />
                 <div className="models-div__box__descr">
                   <div className="models-div__box__descr__name-price">
                     <div className="models-div__box__descr__name-price__name">
@@ -197,7 +215,13 @@ function Models() {
 
             <div className="models-div__box">
               <div className="models-div__box__img">
-                <img src={CarImg5} alt="car_img" />
+                <Image
+                  src={CarImg5}
+                  alt="car_img"
+                  width={500} // Original width of the image
+                  height={300} // Original height of the image
+                  layout="responsive"
+                />
                 <div className="models-div__box__descr">
                   <div className="models-div__box__descr__name-price">
                     <div className="models-div__box__descr__name-price__name">
@@ -240,7 +264,13 @@ function Models() {
 
             <div className="models-div__box">
               <div className="models-div__box__img">
-                <img src={CarImg6} alt="car_img" />
+                <Image
+                  src={CarImg6}
+                  alt="car_img"
+                  width={500} // Original width of the image
+                  height={300} // Original height of the image
+                  layout="responsive"
+                />
                 <div className="models-div__box__descr">
                   <div className="models-div__box__descr__name-price">
                     <div className="models-div__box__descr__name-price__name">

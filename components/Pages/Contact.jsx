@@ -1,4 +1,3 @@
-"use client";
 import { useState } from "react";
 import { FiPhone, FiPhoneCall } from "react-icons/fi";
 import Footer from "../components/Footer";

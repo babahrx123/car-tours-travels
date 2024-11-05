@@ -16,7 +16,6 @@ function PlanTrip() {
 
             <div className="plan-container__boxes">
               <div className="plan-container__boxes__box">
-                {/* <img src={SelectCar} alt="icon_img" /> */}
                 <Image
                   src={SelectCar}
                   alt="icon_img"
@@ -31,7 +30,6 @@ function PlanTrip() {
               </div>
 
               <div className="plan-container__boxes__box">
-                {/* <img src={Contact} alt="icon_img" /> */}
                 <Image src={Contact} alt="icon_img" width={300} height={300} />
                 <h3>Contact Operator</h3>
                 <p>
@@ -41,12 +39,11 @@ function PlanTrip() {
               </div>
 
               <div className="plan-container__boxes__box">
-                {/* <img src={Drive} alt="icon_img" /> */}
                 <Image src={Drive} alt="icon_img" width={300} height={300} />
-                <h3>Let's Drive</h3>
+                <h3>Let&apos;s Drive</h3>
                 <p>
-                  Whether you're hitting the open road, we've got you covered
-                  with our wide range of cars
+                  Whether you&apos;re hitting the open road, we&apos;ve got you
+                  covered with our wide range of cars
                 </p>
               </div>
             </div>

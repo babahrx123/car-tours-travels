@@ -79,13 +79,13 @@ function Hero() {
           </div>
         </div>
 
-        {/* page up */}
+        {/* page up
         <div
           onClick={scrollToTop}
           className={`scroll-up ${goUp ? "show-scroll" : ""}`}
         >
           <IoIosArrowUp />
-        </div>
+        </div> */}
       </section>
     </>
   );

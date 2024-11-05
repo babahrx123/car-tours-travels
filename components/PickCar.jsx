@@ -27,9 +27,9 @@ function PickCar() {
               <h2>Our Tour Fleet</h2>
               <p>
                 Choose from a variety of our amazing vehicles for your next
-                adventure or travel experience. Whether you're planning a family
-                vacation or an exciting tour, we have the perfect vehicle to
-                make your journey unforgettable.
+                adventure or travel experience. Whether you&apos;re planning a
+                family vacation or an exciting tour, we have the perfect vehicle
+                to make your journey unforgettable.
               </p>
             </div>
             <div style={{ marginTop: "-80px", marginBottom: "-100px" }}>

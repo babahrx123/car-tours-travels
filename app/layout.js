@@ -26,8 +26,8 @@ export default function RootLayout({ children }) {
           className="shake-animate"
           style={{
             position: "fixed",
-            bottom: "20%",
-            right: "55px",
+            bottom: "6%",
+            right: "52px",
             zIndex: "10000",
             width: "50px",
             height: "50px",
