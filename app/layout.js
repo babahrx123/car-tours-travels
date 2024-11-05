@@ -34,7 +34,7 @@ export default function RootLayout({ children }) {
         <Navbar />
         {children}
         <a
-          href="tel:+1234567890"
+          href="tel:+919886567456"
           className="shake-animate"
           style={{
             position: "fixed",
