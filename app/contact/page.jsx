@@ -5,24 +5,10 @@ import { FaRegEnvelope } from "react-icons/fa";
 import { CiLocationArrow1 } from "react-icons/ci";
 import { IoMailOpenOutline } from "react-icons/io5";
 import { FiPhoneCall } from "react-icons/fi";
-import Head from "next/head";
 
 function Contact() {
   return (
     <>
-      <Head>
-        <title>About Us - Car Tours and Travel</title>
-        <meta
-          name="description"
-          content="Learn more about Car Tours and Travel. We offer unbeatable prices, unlimited destinations, flexible itineraries, and much more."
-        />
-        <meta
-          name="keywords"
-          content="car tours, travel, car rental, about us, travel services, car travel, tours and travel"
-        />
-        <meta name="author" content="Car Tours and Travel" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      </Head>
       <section className="contact-page">
         <HeroPages name="Contact" />
         <div className="container">
